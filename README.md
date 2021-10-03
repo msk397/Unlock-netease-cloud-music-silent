@@ -1,2 +1,15 @@
 # Unlock-netease-cloud-music-silent
+
 静默启动解锁网易云音乐客户端变灰歌曲bat文件
+
+## step 
+
+* [打开此链接，下载解锁灰色歌曲项目](https://github.com/meng-chuan/Unlock-netease-cloud-music)
+* 先根据原项目的指导按照**Windows端方法一**（本项目仅支持方法一）配置好网易云的网络代理
+* 打开网易云所在目录，将cloudmusic.exe重命名为cloudmusicReal.exe
+* 创建cloudmusicReal.exe的快捷方式
+* 将该快捷方式复制到Unlock-netease-cloud-music项目文件夹下
+* 将本项目的[cloudmusic.exe](https://github.com/machangxin/Unlock-netease-cloud-music-silent/blob/main/cloudmusic.exe)及[startUnlock.bat](https://github.com/machangxin/Unlock-netease-cloud-music-silent/blob/main/startUnlock.bat)复制到Unlock-netease-cloud-music项目文件夹下
+* 在Unlock-netease-cloud-music项目文件夹下，创建cloudmusic.exe的快捷方式
+* 将该快捷方式复制到网易云所在目录
+* 按照以前的方式正常启动网易云即可
