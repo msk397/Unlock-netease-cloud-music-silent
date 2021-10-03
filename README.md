@@ -17,5 +17,4 @@
 * 将该快捷方式复制到Unlock-netease-cloud-music项目文件夹下，并将该快捷方式重命名为**cloudmusicReal**，去掉后面的**.exe**
 * 将本项目的[cloudmusic.exe](https://github.com/machangxin/Unlock-netease-cloud-music-silent/blob/main/cloudmusic.exe)及[startUnlock.bat](https://github.com/machangxin/Unlock-netease-cloud-music-silent/blob/main/startUnlock.bat)复制到Unlock-netease-cloud-music项目文件夹下
 * 在Unlock-netease-cloud-music项目文件夹下，创建cloudmusic.exe的快捷方式
-* 将该快捷方式复制到网易云所在目录
-* 按照以前的方式正常启动网易云即可
+* 使用该快捷方式替换原来的桌面快捷方式即可
